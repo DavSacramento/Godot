@@ -1,0 +1,5 @@
+res://scenes/corridor.tscn
+res://scenes/player.tscn
+res://scripts/player.gd
+res://scripts/killzone.gd
+res://scenes/killzone.tscn

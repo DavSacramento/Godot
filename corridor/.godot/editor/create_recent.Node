@@ -1,0 +1,11 @@
+Label
+ColorRect
+CanvasLayer
+TileMapLayer
+Timer
+CollisionShape2D
+Area2D
+TileMap
+Camera2D
+AnimatedSprite2D
+CharacterBody2D
